@@ -1,0 +1,12 @@
+# Runtime data (do not commit)
+deep_remover.db
+deep_remover.db.bak_*
+deep_remover_history.json
+config.json
+reg_backup/
+# Build artifacts
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
